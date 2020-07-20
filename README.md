@@ -1,4 +1,4 @@
-# liquidswipeanimation
+# Liquidswipeanimation
 
 Liquid Swipe animation is a movement on the screen that has a water-like feel. These animations, as often as possible, have a moderate, flowy development that may wave or repeating designs. (Furthermore, that is what makes it work; liquid swipe animation needs to feel realistic.) Liquid swipe animation may create results as a floating state or swiping action.
 
