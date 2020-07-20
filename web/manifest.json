@@ -1,0 +1,23 @@
+{
+    "name": "liquidswipeanimation",
+    "short_name": "liquidswipeanimation",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Liquid Swipe animation is a movement on the screen that has a water-like feel. These animations, as often as possible, have a moderate, flowy development that may wave or repeating designs. (Furthermore, that is what makes it work; liquid swipe animation needs to feel realistic.) Liquid swipe animation may create results as a floating state or swiping action.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
